@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MCNETMINE.play.hosting",
-    "port": 20995,
+    "ip": "free.aurelixcloud.fun",
+    "port": 25567,
     "version": "1.20.1",
     "try-creative": false
   },
